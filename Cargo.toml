@@ -1,0 +1,6 @@
+[package]
+name = "fio"
+version = "0.1.0"
+authors = ["xushuai <dyxushuai@gmail.com>"]
+
+[dependencies]
